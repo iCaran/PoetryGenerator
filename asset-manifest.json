@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PoetryGenerator/static/css/main.b5c5c059.css",
+    "main.js": "/PoetryGenerator/static/js/main.c43ab742.js",
+    "static/js/787.d3befce1.chunk.js": "/PoetryGenerator/static/js/787.d3befce1.chunk.js",
+    "index.html": "/PoetryGenerator/index.html",
+    "main.b5c5c059.css.map": "/PoetryGenerator/static/css/main.b5c5c059.css.map",
+    "main.c43ab742.js.map": "/PoetryGenerator/static/js/main.c43ab742.js.map",
+    "787.d3befce1.chunk.js.map": "/PoetryGenerator/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5c5c059.css",
+    "static/js/main.c43ab742.js"
+  ]
+}
